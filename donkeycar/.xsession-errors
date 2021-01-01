@@ -1,0 +1,71 @@
+Xsession: X session started for pi at Mon 23 Nov 13:17:37 GMT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pi/.Xauthority
+localuser:pi being added to access control list
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+** Message: 13:17:51.773: main.vala:101: Session is LXDE-pi
+** Message: 13:17:51.774: main.vala:102: DE is LXDE
+** Message: 13:17:51.970: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 13:17:51.970: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Thu  3 Dec 09:05:49 GMT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+** Message: 09:05:54.156: main.vala:101: Session is LXDE-pi
+** Message: 09:05:54.157: main.vala:102: DE is LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: 09:05:54.390: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 09:05:54.390: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Thu  3 Dec 09:09:40 GMT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+** Message: 09:09:50.362: main.vala:101: Session is LXDE-pi
+** Message: 09:09:50.363: main.vala:102: DE is LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: 09:09:50.589: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 09:09:50.590: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Sat  5 Dec 12:38:41 GMT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+** Message: 12:38:46.419: main.vala:101: Session is LXDE-pi
+** Message: 12:38:46.419: main.vala:102: DE is LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: 12:38:46.600: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 12:38:46.601: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log

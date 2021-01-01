@@ -1,0 +1,14 @@
+Xsession: X session started for pi at Sun 22 Nov 14:17:15 GMT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pi/.Xauthority
+localuser:pi being added to access control list
+
+SSH is enabled and the default password for the 'pi' user has not been changed.
+This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
+
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+** Message: 14:17:36.842: main.vala:101: Session is LXDE-pi
+** Message: 14:17:36.842: main.vala:102: DE is LXDE
+** Message: 14:17:37.036: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 14:17:37.037: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
